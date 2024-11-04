@@ -1,0 +1,29 @@
+.logo h1{
+    text-shadow: 2px 2px 4px black;
+    color: white;
+    text-transform: uppercase;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color:#90acd1;
+    width:120px;
+    border-radius: 60px;
+    padding-left:20px;
+   
+    padding-top:10px;
+    padding-bottom:10px;
+    font-style: italic;
+    font-size: 14px;
+    font-weight: bolder;   
+}
+
+@media screen and (max-width: 440px){
+    #heading{
+       margin-top:50px;
+       
+    }
+}
+@media screen and (max-width: 313px){
+    #heading{
+       margin-top:100px;
+       
+    }
+}
