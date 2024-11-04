@@ -4,9 +4,11 @@
 <?php
     require_once('css.php');
 ?>
+<!-- <link rel="preload" href="styles.css" as="style" onload="this.rel='stylesheet'"> -->
+
 <body id="body" data-spy="scroll" data-target="#navigation" data-offset="300">
     <!-- <i class= "fa fa-search"></i> -->
-    <div class="preloader-area">
+    <!-- <div class="preloader-area">
         <div class="loader">
             <div class="loader-inner"></div>
             <div class="loader-inner"></div>
@@ -17,39 +19,9 @@
             <div class="loader-inner"></div>
             <div class="loader-inner"></div>
         </div>
-    </div> 
+    </div>  -->
     
-   <style>
-    .logo h1{
-        text-shadow: 2px 2px 4px black;
-        color: white;
-        text-transform: uppercase;
-        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-        background-color:#90acd1;
-        width:120px;
-        border-radius: 60px;
-        padding-left:20px;
-       
-        padding-top:10px;
-        padding-bottom:10px;
-        font-style: italic;
-        font-size: 14px;
-        font-weight: bolder;   
-    }
 
-    @media screen and (max-width: 440px){
-        #heading{
-           margin-top:50px;
-           
-        }
-    }
-    @media screen and (max-width: 313px){
-        #heading{
-           margin-top:100px;
-           
-        }
-    }
-   </style>
     <?php
         require_once('header.php');
     ?>
