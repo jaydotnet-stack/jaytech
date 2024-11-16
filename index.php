@@ -111,7 +111,7 @@
                             <div class="section-title mb-50">
                                 <h2>About Us</h2>
                             </div>
-                            <p>At Jay Tech, we understand that every project is unique, and so is each solution. Our mission is to create websites that not only fulfill the technical requirements of our clients but also reflect their core values and vision. We specialize in building custom websites from the ground up, ensuring a seamless integration of aesthetics, functionality, and user experience. Whether it’s an e-commerce platform, blog, corporate site, or portfolio, we design and develop with a deep understanding of each client’s specific needs. Our two-person team collaborates closely with you at every stage, turning your ideas into digital realities. From startups to established businesses, we are committed to delivering high-quality results that drive impact and growth. With a dedication to excellence and innovation, we approach every project with a meticulous eye for detail, creating websites that are not only functional but also modern, engaging, and user-friendly.</p>
+                            <p>At Jay Tech, every project is unique, and so is each solution. My mission is to create websites that not only fulfill the technical requirements of our clients but also reflect their core values and vision. I specialize in building custom websites from the ground up, ensuring a seamless integration of aesthetics, functionality, and user experience. Whether it’s an e-commerce platform, blog, corporate site, or portfolio, I design and develop with a deep understanding of each client’s specific needs. I collaborates closely with you at every stage, turning your ideas into digital realities. I am committed to delivering high-quality results that drive impact and growth. With a dedication to excellence and innovation, I approach every project with a meticulous eye for detail, creating websites that are not only functional but also modern, engaging, and user-friendly.</p>
                             <!-- <ul class="about-info mt-4">
                                 <li><span>Name:</span> 
                                     <span>Karim EzZat</span>
@@ -167,6 +167,20 @@
                         <div id="page-1" class="page one">
                             <h3 class="heading">Experience</h3>
                            
+                            
+                            <div class="resume-wrap transition d-flex">
+                                <div class="icon d-flex align-items-center justify-content-center">
+                                    <span class="icon-briefcase"></span>
+                                </div>
+                                <div class="text pl-3">
+                                    <span class="date">2012-2014</span>
+                                    <h4>Apprentice</h4>
+                                    <span class="position">Apprentice — Oltim Technology.</span>
+                                    
+                                </div>
+                                
+                            </div>
+
                             <div class="resume-wrap transition d-flex">
                                 <div class="icon d-flex align-items-center justify-content-center">
                                     <span class="icon-briefcase"></span>
@@ -201,27 +215,41 @@
                                 </div>
                                 
                             </div>
-
+                            
                             <div class="resume-wrap transition d-flex">
                                 <div class="icon d-flex align-items-center justify-content-center">
                                     <span class="icon-briefcase"></span>
                                 </div>
                                 <div class="text pl-3">
-                                    <span class="date">2018-2024</span>
+                                    <span class="date">2018-present</span>
+                                    <h4>System Programmer</h4>
+                                    <span class="position">System Programmer and Engineer — Ingenious Technologies and Innovations (Remote).</span>
+                                    
+                                </div>
+                                
+                            </div>
+                        
+                            <div class="resume-wrap transition d-flex">
+                                <div class="icon d-flex align-items-center justify-content-center">
+                                    <span class="icon-briefcase"></span>
+                                </div>
+                                <div class="text pl-3">
+                                    <span class="date">2019-present</span>
                                     <h4>Website Developer</h4>
                                     <span class="position">Trainings — Jaydotnet Technologies and Innovations.</span>
                                     
                                 </div>
                                 
                             </div>
+
                             <div class="resume-wrap transition d-flex">
                                 <div class="icon d-flex align-items-center justify-content-center">
                                     <span class="icon-briefcase"></span>
                                 </div>
                                 <div class="text pl-3">
-                                    <span class="date">2019-2024</span>
-                                    <h4>Website Developer</h4>
-                                    <span class="position">Trainings — Jaydotnet Technologies and Innovations.</span>
+                                    <span class="date">2019-2019</span>
+                                    <h4>Centre Trainer</h4>
+                                    <span class="position">Centre Trainer — American Tower Company (ATC) Digital Village Literacy Program.</span>
                                     
                                 </div>
                                 
@@ -301,7 +329,7 @@
                                     <span class="icon-briefcase"></span>
                                 </div>
                                 <div class="text pl-3">
-                                    <span class="date">2023-2024</span>
+                                    <span class="date">2023-present</span>
                                     <h4>Website Developer</h4>
                                     <span class="position">Research Mentee - Essay Process Product Research by the Institute of Technology-Enhanced-Learning 
                                     and Digital Humanities (INTEDH), Federal University of Technology Akure (FUTA) and sponsored by 
@@ -316,7 +344,7 @@
                                     <span class="icon-briefcase"></span>
                                 </div>
                                 <div class="text pl-3">
-                                    <span class="date">2023-2024</span>
+                                    <span class="date">2023-present</span>
                                     <h4>Website Developer</h4>
                                     <span class="position">Software developer — Learnwithpride Ltd. (Remote)</span>
                                     
@@ -329,7 +357,7 @@
                                     <span class="icon-briefcase"></span>
                                 </div>
                                 <div class="text pl-3">
-                                    <span class="date">2023-2024</span>
+                                    <span class="date">2023-present</span>
                                     <h4>Website Developer</h4>
                                     <span class="position">Software Engineer — Computer Resource Centre (CRC) Federal University of Technology Akure (Full 
                                     Time)</span>
